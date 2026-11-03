@@ -27,7 +27,7 @@ function Contact() {
     );
 
     window.location.href =
-      `mailto:YOUR_EMAIL@gmail.com?subject=${subject}&body=${body}`;
+      `mailto:acharyasapna2059@gmail.com?subject=${subject}&body=${body}`;
   };
 
   return (
@@ -61,9 +61,9 @@ function Contact() {
               I would be happy to connect.
             </p>
 
-            <a href="mailto:YOUR_EMAIL@gmail.com">
+            <a href="mailto:acharyasapna2059@gmail.com">
               <Mail />
-              YOUR_EMAIL@gmail.com
+              acharyasapna2059@gmail.com
             </a>
 
             <a

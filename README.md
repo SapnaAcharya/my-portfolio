@@ -6,8 +6,8 @@ The website provides an overview of my background as a Software Engineering grad
 
 ## Live Demo
 
-- **Portfolio Website:** [Add your Vercel deployment URL]
-- **GitHub Repository:** [Add your GitHub repository URL]
+- **Portfolio Website:** [https://sapnaacharya-portfolio.vercel.app/]
+- **GitHub Repository:** [https://github.com/SapnaAcharya]
 
 ## About the Project
 
@@ -67,7 +67,7 @@ A full-stack cake management application developed to manage cake products, cust
 - Checkout and order management.
 - REST API integration.
 
-**Repository:** [Add project GitHub link]
+**Repository:** [https://sweetcakes-np.vercel.app]
 
 ### 2. E-Commerce Application
 
@@ -79,7 +79,7 @@ An e-commerce application developed to support online product browsing and shopp
 - Express.js
 - MySQL
 
-**Repository:** [Add project GitHub link]
+**Repository:** [https://github.com/SapnaAcharya/ecommerce-site]
 
 ### 3. Hairstyle Recommendation Application
 
@@ -187,9 +187,9 @@ src/
 
 **Sapana Acharya**
 
-- GitHub: [Add your GitHub profile URL]
-- LinkedIn: [Add your LinkedIn profile URL]
-- Email: [Add your professional email address]
+- GitHub: [https://github.com/SapnaAcharya]
+- LinkedIn: [https://www.linkedin.com/in/sapna-acharya12/]
+- Email: [acharyasapna2059@gmail.com]
 
 ## License
 
